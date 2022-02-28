@@ -1,0 +1,1441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A moderate reply to the citie-remonstrance; presented to the High Court of Parliament the 26 of May, 1646. Containing severall reasons why many well affected citizens cannot assent thereunto. Published according to order.</title>
+            <author>Price, John, Citizen of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90966</idno>
+            <idno type="STC">Wing P3343A</idno>
+            <idno type="STC">Thomason E340_20</idno>
+            <idno type="STC">ESTC R200880</idno>
+            <idno type="EEBO-CITATION">99861506</idno>
+            <idno type="PROQUEST">99861506</idno>
+            <idno type="VID">113643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113643)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A moderate reply to the citie-remonstrance; presented to the High Court of Parliament the 26 of May, 1646. Containing severall reasons why many well affected citizens cannot assent thereunto. Published according to order.</title>
+                  <author>Price, John, Citizen of London.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Simmons, and Henry Overton in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Price by Wing.</note>
+                  <note>A reply to the Corporation of London, Court of Common Councell's remonstrances and petitions to the Lords and Commons (Wing T1447 and T1666).</note>
+                  <note>Signatures: A-D⁴.</note>
+                  <note>Annotation on Thomason copy: "June 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council. --  To the Right Honourable the Lords assembled in high court of Parliament.</term>
+               <term>City of London (England). --  Court of Common Council. --  To the Honourable the House of Commons assembled in high court of Parliament.</term>
+               <term>Covenants (Church polity) --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113643:1" rendition="simple:additions"/>
+            <p>A
+MODERATE
+REPLY
+TO THE
+Citie-Remonſtrance;
+PRESENTED TO THE
+HIGH COURT OF <hi>PARLIAMENT</hi>
+the 26 of <hi>May,</hi> 1646.</p>
+            <p>Containing ſeverall Reaſons why
+many well affected CITIZENS
+cannot aſſent thereunto.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>Matthew Simmons,</hi> and <hi>Henry
+Overton</hi> in <hi>Popes</hi>-head Alley. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:113643:2"/>
+            <pb facs="tcp:113643:2"/>
+            <head>A
+MODERATE
+REPLY
+TO THE
+CITIE
+Remonſtrance.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Citie Repreſentative; as it is made
+up, and choſen by the Citie collective;
+ſo ſhould it act for the good of the ſame;
+but it is more common then commen<g ref="char:EOLhyphen"/>dable,
+for men betruſted with other
+mens good, to behave themſelves to
+their truſtees hurt.</p>
+            <p>There are foure caſes wherein the
+City collective is not bound to the City repreſentative, but
+ought in duty to diſſent from it, if not to proteſt againſt it.</p>
+            <p>1. When the City repreſentative acts in a direct, evident,
+and obvious manner, againſt the expreſſe will and word of
+God.</p>
+            <p>2. When in the like plaine, and direct manner, it acts a<g ref="char:EOLhyphen"/>gainſt
+the apparent welfare, peace, and good of the Kingdome.</p>
+            <p>
+               <pb facs="tcp:113643:3"/>
+3. When it acts after the ſame manner againſt the proper
+end of its own being, the Cities welfare.</p>
+            <p>4. When it acts beyond the bounds, limits, and extents ap<g ref="char:EOLhyphen"/>pointed,
+to the endangering of all its immunities and free<g ref="char:EOLhyphen"/>domes.</p>
+            <p>All which granted (as cannot be denied) the ſerious exami<g ref="char:EOLhyphen"/>nation
+of the late Remonſtrance and City Petition preſented
+to the Parliament, <hi>May</hi> 26. 1646. by the Citie repreſentative,
+yeelds matter &amp; reaſon ſufficient for our utter diſlike of, if not
+proteſtation againſt the ſame, &amp; that will appear if we conſider,</p>
+            <p>Firſt, the Narrative and Remonſtrative part of it.</p>
+            <p>Secondly, the Prayer or Petitionary part of it.</p>
+            <p>Thirdly, the probable tendency, &amp; dangerous effects of both.
+Firſt, for the Narative and Remonſtrative part of it.</p>
+            <p>Firſt, we obſerve the Phraſe, Stile, and Dialect thereof, car<g ref="char:EOLhyphen"/>rying
+a full compliance with his Majeſties wonted Declarations
+againſt the Parliament, and (as if indeed) drawn up by the
+ſame hand, framed by the ſame head, inſinuating into the peo<g ref="char:EOLhyphen"/>ple,
+that all manner of hereſies, ſchiſmes, and blaſphemies, are
+tolerated, and the fomentors thereof, with all ſwarmes of Se<g ref="char:EOLhyphen"/>ctaries,
+are encouraged, emboldened, yea, admitted into pla<g ref="char:EOLhyphen"/>ces
+of profit and truſt, in Martiall and Civill affaires by the
+Parliament, and that under a pretence of a Chriſtian reſpect
+unto tender conſciences, (evidenced in their late Declaration)
+they deſigne a toleration for all theſe. All which are dangerouſly
+inſinuated, page 2.</p>
+            <p>Secondly, a cloſe, but cleare intimation to the people, that a
+ſacred obligation lieth upon them from their ſolemn League
+and Covenant, unto a down-right ſuppreſſion of all thoſe
+who cut either of weak or tender conſciences, cannot fully ſub<g ref="char:EOLhyphen"/>mit
+unto Presbyteriall government, though it is notoriouſly
+known, that the Parliament did promiſe in ſeverall Declara<g ref="char:EOLhyphen"/>tions,
+a gracious reſpect unto tender conſciences, &amp; did act ac<g ref="char:EOLhyphen"/>cordingly
+in the beginning of this Parliament, releaſing many
+poore men of different judgements, from their heavie preſſures,
+under the cruell tyranny of the late Prelats (to the general con<g ref="char:EOLhyphen"/>tentment,
+joy, and acclamations of all the people) for non-con<g ref="char:EOLhyphen"/>formity
+unto their government, though eſtabliſhed by the
+<pb facs="tcp:113643:3"/>
+Law of the Land: and moſt evident it is, that the end of the
+Covenant was not at all a rigid exaction of a forc'd uniformi<g ref="char:EOLhyphen"/>ty
+unto Presbyterial government, upon the ſubjects of <hi>England;</hi>
+and the truth is (all things conſidered) it is a moſt putid and
+irrationall thing, once to conceive, that any ſuch thing was ever
+intended by our preſent Parliament in the impoſing therof. For</p>
+            <p>Firſt, could any ſuppoſe it could conſiſt with the Parliaments
+wiſdom, to ſwear themſelves, &amp; enforce the people to covenant a
+ſubjection, unto that Church government w<hi rend="sup">ch</hi> they, nor the peo<g ref="char:EOLhyphen"/>ple,
+did not at that time underſtand? Could it enter into their
+hearts, at leaſt to imagine that ſuch a blind Sacrifice would ever
+atone the wrath of the Almighty for our former abuſes in mat<g ref="char:EOLhyphen"/>ters
+of Church government, to lay the firſt ſtone of a bleſſed
+Reformation in blindneſſe and ignorance, and ſo to deſtroy Pre<g ref="char:EOLhyphen"/>lacy
+by Popery?</p>
+            <p>Secondly, if they did underſtand this plat-form of Church-government,
+to what end hath the Aſſembly been ſearching out
+the will of God about Church-government ever ſince the impo<g ref="char:EOLhyphen"/>ſition
+hereof? Was it to frame their Reformation according to
+the Word, or the Word according to their reſolutions? Did they
+firſt reſolve and then enquire? Firſt conclude, and then debate?
+If any reformed Church muſt be the exact pattern for us to
+walk by; what need any further expence of toyle, and time, to
+find out the mind of God herein, when the reſolved pattern is
+before our eyes?</p>
+            <p>Thirdly, it is notoriouſly known that the diſſenting bre<g ref="char:EOLhyphen"/>thren
+in the Aſſembly, Citie, Countrey, have taken this Cove<g ref="char:EOLhyphen"/>nant,
+and were as forward in the promotion hereof by all
+due meanes, as well as others; knowing full well the true intent
+and meaning thereof: and could we think they were ſo farre at
+variance with their own peace, and future welfare, as thus freely
+and voluntarily to contrive and promote the ruine hereof, as it
+neceſſarily muſt follow upon the aforeſaid interpretation?</p>
+            <p>Fourthly, the Parliament did never yet give any ſuch inter<g ref="char:EOLhyphen"/>pretation
+of the Covenant, and who ought to explain the mea<g ref="char:EOLhyphen"/>ning
+but the makers thereof? Is it not moſt abſurd, that they
+ſhall compoſe and enjoyn the Covenant, and others ſhall put
+their ſenſe upon it, and endeavour the enforcement of their
+<pb facs="tcp:113643:4"/>
+own ſenſe both upon them and the whole Kingdome; for no
+leſſe is inſinuated in this Remonſtrance, page the 3<hi rend="sup">d</hi>.</p>
+            <p>But you will ſay, the very expreſſe letter declares the ſenſe,
+it is the very Text, and not the interpretation which they
+plead, being plain and obvious to every mans eye: We reply,</p>
+            <p>The letter thereof doth not tye us to a perfect conformitie to
+Presbyteriall government already eſtabliſhed in any reformed
+Church in the world; for wee are tyed by our Covenant unto
+a <hi>ſincere, reall, and conſtant endeavour in our ſeverall places and cal<g ref="char:EOLhyphen"/>lings,
+the reformation of Religion in the Kingdomes of England and
+Ireland, in Doctrine, Worſhip, Diſcipline, and Government, accord<g ref="char:EOLhyphen"/>ing
+to the Word of God, and the beſt reformed Churches.</hi> So that
+here is no poſitive determination of any thing; but an engage<g ref="char:EOLhyphen"/>ment
+unto an inquiſition after the beſt; and the word of God
+to be our chiefe informer, and directer herein; and we are tyed
+likewiſe to the like <hi>endeavour of our neareſt conjunction and unifor<g ref="char:EOLhyphen"/>mitie
+in Religion, confeſſion of faith, forme of Church-Government,
+Directory for worſhip and Catechizing,</hi> viz. according to the word
+of God, that poſſibly we can, ſo that if our Brethren of <hi>Scot<g ref="char:EOLhyphen"/>land</hi>
+have taken the ſame Covenant with us, they are bound as
+well to hearken to what this Kingdome ſhall propound unto
+them, as this Kingdome is to conſider what is tendred from
+them to us; and if they have not taken the ſame Covenant
+with us, yet wee are bound by our Covenant (in caſe this
+Kingdome finde out a more perfect way of Church-Govern<g ref="char:EOLhyphen"/>ment,
+according to the word of God, then that Kingdome of
+<hi>Scotland</hi> hath done) wee are bound (we ſay) more to perſwade,
+and reaſon them over, to conformitie with us, then in ſuch a
+caſe, to conforme to them. But</p>
+            <p>Laſtly, It's as cleare as the Sunne, that the true intent of the
+ſolemne League and Covenant, was a more plaine diſcovery of
+the Parliaments enemies, and not for a ſnare to the Parliaments
+friends, and (as touching reformation in matters ſpirituall and
+eccleſiaſticall) to root out <hi>Popery, Prelacy, Superſtition, Hereſie,
+Schiſme, and prophaneneſſe;</hi> and God forbid, but that all theſe
+in a due, and Chriſtian way, ſhould be endeavoured againſt;
+But are wee bound by this, to ruine the Parliaments friends,
+who loveth not their lives unto death in the Parliaments cauſe?
+<pb facs="tcp:113643:4"/>
+Men cordiall to the State, conſcientious in Religion, yea, holy,
+godly, learned, and that by the teſtimony of their hotteſt ad<g ref="char:EOLhyphen"/>verſaries,
+and for no other reaſon, but their non-reſolution, to
+ſweare ſubjection to what they know not; as if the tender con<g ref="char:EOLhyphen"/>ſcience
+was the troubler of <hi>Iſrael,</hi> when the want hereof is the
+onely plague of this wicked world, the naming whereof is an
+evident offence, yea no leſſe then a provocation unto theſe angry
+<hi>Remonſtrants,</hi> who can hardly beare it, even from the pen of the
+Parliament of <hi>England.</hi> This is the ſecond ground of our utter
+diſlike of the narrative part of this Petition.</p>
+            <p>
+               <hi>Thirdly, You tell the people in print, as well as the Parlia<g ref="char:EOLhyphen"/>ment,
+by your written</hi> Remonſtrance, <hi>what</hi> Vowes you have made
+in the Covenant as well as in former Proteſtations, to preſerve the
+Rights and Priviledges of the Parliament, and the Liberties of the
+Kingdomes, and to preſerve and defend the Kings Majeſties Perſon
+and Authority, in the Preſervation and Defence of the true Religion,
+and Liberties of the Kingdomes, that the world may beare witneſſe
+with your Conſciences, of your Loyalty, and that you have no thoughts
+or intentions, to diminiſh His Majeſties juſt power and greatneſſe,
+and doe humbly reſt in the aſſurances you have received in the many
+former Declarations of both Houſes, concerning their intentions to<g ref="char:EOLhyphen"/>wards
+his Majeſty, his Royall Poſteritie, and the Peace of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>But to what end is all this? is it to call for the popular teſti<g ref="char:EOLhyphen"/>mony
+of your conſtant care, you ever have had, of the Parlia<g ref="char:EOLhyphen"/>ments
+Priviledges? if it was meet for us to remember, what the
+Parliament have forgotten, to unvaile for detection, what in
+love, they have buried in oblivion; you very well know, what
+truth can ſay to this particular; Is it to call for a popular ob<g ref="char:EOLhyphen"/>ſervation
+of the Parliaments neglect, of their obliged care, not
+to <hi>diminiſh his Majeſties juſt power and greatneſſe?</hi> As for the Par<g ref="char:EOLhyphen"/>liament,
+let envie her ſelfe diſgorge her poyſon, and ſpeake her
+worſt; nay, in this caſe, ſpeak Malignants, ſpeak the <hi>Oxfordian
+Aulicus;</hi> but firſt conſider a word or two, what an unnaturall
+warre hath been raiſed amongſt us? how managed on the Kings
+ſide? how maintained? how much innocent bloud ſplit in the
+three Kingdomes? what ſlanders have been caſt upon the Par<g ref="char:EOLhyphen"/>liament
+of <hi>England?</hi> how they have been written, remonſtra<g ref="char:EOLhyphen"/>ted,
+<pb facs="tcp:113643:5"/>
+and declared again and again, Traytors, Rebells, a pre<g ref="char:EOLhyphen"/>tended
+Parliament, and what not? how the<note n="*" place="margin">The Author of <hi>Truth it's manifeſt</hi> poſi<g ref="char:EOLhyphen"/>tively affirmes that his Ma<g ref="char:EOLhyphen"/>jeſtie himſelfe ſent a Com<g ref="char:EOLhyphen"/>miſſion from <hi>Scotland,</hi> ſea<g ref="char:EOLhyphen"/>led with the <hi>S<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ots</hi> broad Seale, unto the <hi>Iriſh</hi> Re<g ref="char:EOLhyphen"/>bells, to au<g ref="char:EOLhyphen"/>thorize them in that bloudy work, <hi>Page</hi> the 20.</note> 
+               <hi>Iriſh, Scottiſh,</hi> and
+<hi>Engliſh</hi> warres did riſe, what murtherings, killing and ſlaughte<g ref="char:EOLhyphen"/>ring
+the poore ſubjects? what tearings, rendings, and crip<g ref="char:EOLhyphen"/>pling
+the poor people? what burning, waſting, and plundering
+mens eſtates? how many poore, diſtreſſed, and afflicted father<g ref="char:EOLhyphen"/>leſſe
+and widows are made? what wofull, bitter, and ſad com<g ref="char:EOLhyphen"/>plaints,
+and ſhowers of teares are ſhed in corners, and ſecret clo<g ref="char:EOLhyphen"/>ſets
+by many men, whoſe former quality, with the remembrance
+thereof, makes them wipe their eyes, and counterfeit cheerful<g ref="char:EOLhyphen"/>neſſe
+in the ſight of men? What tamperings with forein Nati<g ref="char:EOLhyphen"/>ons,
+for the utter ruine, and perpetuall enſlaving of the three
+Kingdomes, to an arbitrary power? what evident, plaine, and
+palpable detections, to the perfect diſcharge of all doubts, and
+ſcruples; from whom, and whence all this hath been, the rela<g ref="char:EOLhyphen"/>ting
+whereof will fill volumes, and will be the affecting ſubject
+of the Readers heart, in another age; and yet, how tender hath
+the Parliament been ſtill to maintaine his Majeſties honour,
+by charging all upon his evill Counſellors? making him meer<g ref="char:EOLhyphen"/>ly
+paſſive, and onely ſeduc'd, as if altogether innocent, notwith<g ref="char:EOLhyphen"/>ſtanding
+all this, almoſt to the very regret of charity it ſelfe.
+And as for their care, of his Majeſties royall poſterity, bloud,
+and family, how carefull have they been for the princely educa<g ref="char:EOLhyphen"/>tion
+of his Majeſties children within their quarters? their boun<g ref="char:EOLhyphen"/>tifull
+proviſion, and noble reſpects, for, and to his Majeſties
+Siſter, and her royall family? All this conſidered, and many
+things more, which may be aſſerted, I challenge againe the de<g ref="char:EOLhyphen"/>ſperateſt
+Malignant, in Citie or Kingdome, on this ſide the
+grave, to let his tongue articulate his Conſciences thoughts,
+and give an anſwer, whether the Parliament hath not had a
+tender care to his Majeſties honour, his bloud, and family.
+Doe you reſt in the aſſurance you have concerning the Parlia<g ref="char:EOLhyphen"/>ments
+<hi>intentions about the peace of the Kingdome?</hi> why are
+they then interrupted in their worke? are not they in the
+faireſt way to a happy peace, that ever they were in ſince
+the warres began? and will you now obſtruct them herein?
+doth this courſe of yours, promote in the leaſt the pub<g ref="char:EOLhyphen"/>licke
+peace? what now to diſcourage the Parliament? now
+<pb facs="tcp:113643:5"/>
+to preſſe them in all haſte unto a ſuddaine enfeebling their
+ſtrength by cruſhing a conſiderable party of as cordiall friends
+as ever they had ſince the warres began, and that becauſe they
+will not ſweare a ſubmiſſion unto that Church Government,
+which neither they nor your ſelves yet underſtand? Presbyte<g ref="char:EOLhyphen"/>riall
+Government, the Modell whereof is yet unſeen? Is this
+your requitall for their winters worke? have not you lived
+(ſhall I ſay by the ſweat of their browes?) nay by the expence
+of their blood? is this in lieu of their promiſed arrears? what,
+have they been walls and Bulwarks to you, and will you prove
+briers and thornes to them? have they watch'd whilſt you ſleep?
+hazarded danger for your peace? undergone ſuch ſeparations
+from their wives and children, friends, and Families, ſuch
+hardſhips of hunger and thirſt, cold and nakedneſſe, lived in
+the valley and ſhadow of death, for yours and the Kingdomes
+ſake? and ſhall <hi>London</hi> be the unworthy pattern of inhumane
+unthankfulneſſe to the whole Kingdome? You reſt ſatisfied in the
+aſſurance of the Parliaments reſpects to the King; but doe you
+reſt ſo ſatisfied in the like aſſurance of the Kings reſpects unto
+the Parliament? Let your Conſciences ſpeak, are you ſo ſatis<g ref="char:EOLhyphen"/>fied?
+if ſo, what is the ground of this perſwaſion? is it be<g ref="char:EOLhyphen"/>cauſe
+of his late good words, fair, ſweet, and pleaſant lines he
+hath written to his Parliament of <hi>England,</hi> ſitting at <hi>Weſt<g ref="char:EOLhyphen"/>minſter?</hi>
+or to his right truſty, and well beloved the Lord Ma<g ref="char:EOLhyphen"/>jor,
+Aldermen, and common-Counſell of <hi>London?</hi> how can
+<hi>London</hi> be thus deluded? is the word of a King now ſo taking in
+<hi>Londons</hi> thoughts? If you have not pledg'd a health of the
+waters of forgetfulneſſe, to his Majeſties ſucceſſe in his Prero<g ref="char:EOLhyphen"/>gative
+deſignes; look back a little to former times, ſurely it was
+not in the former age that you have, (or at leaſt ſeem to) for<g ref="char:EOLhyphen"/>get,
+how his majeſty hath writ to his Parliament, ſometimes
+calling them his Parliament of <hi>England</hi> ſitting at <hi>Weſtminſter;</hi>
+ſuddainly after in his printed Declarations, the pretended
+Houſes; anon after his <hi>Parliament</hi> at <hi>Weſtminſter,</hi> within a while
+after, Rebels, Traitours, men that ſeek the ruine of him and
+his; and as for <hi>London,</hi> is it not notoriouſly known, how he
+hath call'd it that rebellious City, prohibiting all trading with
+it throughout his quarters, endeavouring the utter ruine, and
+<pb facs="tcp:113643:6"/>
+ſpoile of it? how many times hath he offered the ſpoyles of
+<hi>London</hi> as the wages of thoſe who would help him on in his de<g ref="char:EOLhyphen"/>ſigne,
+which his ſoule ſo longs for? How many ſtories to this
+purpoſe may you read, in a late Book called <hi>Truth its Manifeſt,</hi>
+which as ſome ſay, calls a <hi>Scotch</hi> brother the father thereof,
+which affirmes, that once he, <hi>viz.</hi> the King, <hi>plotted with his Ar<g ref="char:EOLhyphen"/>my,
+which he raiſed againſt the Scots, to come and deſtroy the Par<g ref="char:EOLhyphen"/>liament
+of</hi> England, <hi>and to take the ſpoyle of</hi> London, <hi>for their re<g ref="char:EOLhyphen"/>ward,</hi>
+p. 17. line ult. and after that, tempts the <hi>Scots</hi> to comply
+with him in his deſigned worke, <hi>and offers unto them for recom<g ref="char:EOLhyphen"/>pence,
+not only the ſpoyle of</hi> London; <hi>but alſo the foure Counties
+neare adjacent unto their Countrey to be adjoyned hereafter to it,</hi> &amp;c.
+pag. the eighteenth, line 4. and can a Court Complement ſo
+ſtrangely intoxicate the chief City of the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+as now to be enſnared and entangled thereby?</p>
+            <p>But you will ſay, we have now deeds as well as words, his
+Majeſty is come to our <hi>Parliaments</hi> Quarters, hath committed
+himſelf to our own Armies, is in ſafe Cuſtody with our faith<g ref="char:EOLhyphen"/>full
+friends, our <hi>Scotch</hi> Brethren.</p>
+            <p>This muſt be premiſed, that we will not queſtion the love,
+and faithfulneſſe, truth and integrity of our <hi>Scotch</hi> Brethren,
+for although,</p>
+            <p>Firſt, ſeldome ever any Nation came in to the help of this
+Kingdome in its neceſſity againſt the Enemies thereof, that did
+willingly depart the ſame upon termes of love, amity and
+friendſhip, (the milk, and honey of this Land of <hi>Canaan</hi>) I
+meane the riches, and treaſures thereof being a ſnare upon them:
+and although,</p>
+            <p>Secondly, we have been often upbraided by the malignant
+party (formerly vext at the Scots forwardneſſe to help the <hi>Par<g ref="char:EOLhyphen"/>liament</hi>)
+that we ſhould boaſt of their love, when they depar<g ref="char:EOLhyphen"/>ted
+from us; and that they would at laſt prove our <hi>deare Bre<g ref="char:EOLhyphen"/>thren
+indeed:</hi> and although</p>
+            <p>Thirdly, further jealouſies are ſtill fomented by the common
+people from ſeverall paſſages from our <hi>Scotch</hi> Brethren, as the
+continuall rumour of their keeping our <hi>Engliſh</hi> garriſons in their
+own hands, ſore abuſes of the <hi>Engliſh</hi> people by the <hi>Scotch</hi> ſoul<g ref="char:EOLhyphen"/>diers,
+the keeping back of <hi>Aſhburnham,</hi> and the eſcape of <hi>Hudſon</hi>
+               <pb facs="tcp:113643:6"/>
+from the <hi>Scots</hi> hands; the encreaſing rumor of many <hi>Scots</hi> come
+into the Kingdom, whether true or falſe we know not, with ſe<g ref="char:EOLhyphen"/>verall
+notions of this nature, although theſe are jealouſies of
+the fearfull people, yet can we hardly ſuppoſe, that our deare
+Brethren after ſo many Proteſtations of their brotherly love;
+ſuch an obligation, by ſo ſacred, and ſolemne a Covenant;
+ſuch a profeſſion of piety, and holineſſe; ſuch zeale for a bleſſed
+reformation; that after all this, they ſhould prove our enemies,
+falſe, deceitfull, ſelf-ſeekers, making Religion and zeale of refor<g ref="char:EOLhyphen"/>mation,
+a meere pretence, for baſe deſignes; no doubtleſſe; they
+very well know, that, that God, which hath beaten the pro<g ref="char:EOLhyphen"/>phaneneſſe
+of this Kingdome with rods, will ſcourge ſuch hypo<g ref="char:EOLhyphen"/>criſie
+with Scorpions, that they will then prove the firſt-borne
+of abominations, both to God and man, the ſcorne and <hi>odium</hi>
+of all Nations; wee are full of hopes, that it cannot ſtand with
+many things wee have ſeene in them; therefore this premiſed,
+though we doe not queſtion our <hi>Scots</hi> brethrens love and re<g ref="char:EOLhyphen"/>ſpects
+to the Parliament; yet have wee the ſame reaſon, to
+thinke ſo well of his Majeſties love, as of the <hi>Scots?</hi> Let our
+reaſons, and judgements give an anſwer to this queſtion, Had
+his Majeſty no <hi>fine deſigne</hi> in this? was he as cordiall to the
+Kingdomes good; as wee hope our Brethren are? If ſo,
+why then doth he not give preſent order to all his Garri<g ref="char:EOLhyphen"/>ſons,
+in all the Kingdome, for their preſent ſurrender unto
+the Parliaments Forces as he did to the enemy in <hi>Scotland,</hi>
+without any conditions? You will ſay, He hath done ſo. We
+anſwer; Not ſo abſolutely, but <hi>upon honorable termes;</hi> and
+what is this more then a deluſion, a caſting a miſt to amaze the
+the people? What meanes he by honorable terms? There is
+no doubt, but that all the Garriſons in his Majeſties quarters,
+might long before this have been ſurrendred, the warres con<g ref="char:EOLhyphen"/>cluded,
+and all ended, upon that which his Majeſty calls hono<g ref="char:EOLhyphen"/>rable
+terms; doe not his poore ſubjects ſtill lie a bleeding? If his
+Majeſty be ſo cordiall to the Kingdomes peace, how is it that the
+Malignants every where, and our profeſt enemies in the Kings
+Garriſons rejoyce hereat, wil not ſurrender, ſtand upon their
+terms, profeſſing themſelves in a better capacity to keep and
+maintain his Majeſties cauſe, againſt the Parliament, then ever
+<pb facs="tcp:113643:7"/>
+they were in ſince the New Modell began? Can his Majeſties
+going to the <hi>Scots</hi> (all things conſidered) be ſo full ſatisfaction
+to reaſonable men, of his reall intentions for the Parliaments
+cauſe? Hath he not addreſt himſelf by many attempts, ſecret in<g ref="char:EOLhyphen"/>ſinuations,
+frequent tamperings, to <hi>Danes, Dutch, French, Iriſh,
+Engliſh;</hi> to Papiſts, Prelats, Proteſtants, Independents, Preſ<g ref="char:EOLhyphen"/>byterians,
+to accompliſh his deſigne? What ſtone hath he left
+unturned, what means unattempted to promote the ſame? Doe
+not you think his coming to the <hi>Scotch</hi> Army was a new deſign,
+a laſt caſt, one game more, which if it miſcarry, all is loſt? Alas,
+alas, what ſecurity doth his Majeſty give you more then his
+word? And is this ſo forcing in <hi>Londons</hi> eyes? Doe you hear of
+any reall remorſe upon his heart? any relentings for the inno<g ref="char:EOLhyphen"/>cent
+bloud that hath been ſpilt by his meanes? Have you any
+hear-ſay of his perſonall reformations? What's become of <hi>Lon<g ref="char:EOLhyphen"/>dons</hi>
+reaſon? Had you not as good words concerning the bleed<g ref="char:EOLhyphen"/>ing
+condition of his diſtreſſed ſubjects; and his hearty endea<g ref="char:EOLhyphen"/>vours
+for the peace of the Kingdome, in the midſt of his hotteſt
+violence againſt the Parliament, as he hath given you now? Call
+to mind your former experiences, the ſeveral tranſactions in the
+<hi>Scottiſh, Iriſh,</hi> and <hi>Engliſh</hi> warres, have not the deepeſt deſignes,
+and faireſt words, the moſt deſperate and horrible actions,
+and the moſt zealous profeſſions, deepeſt imprecations, and
+ſtrange proteſtations, been alwayes diſcovered at the ſame time?
+Shall <hi>London</hi> now be charm'd by theſe into its own miſery,
+perpetuall ſlavery, and utter undoing, as moſt undoubtedly,
+the truth will be, if <hi>Englands</hi> Parliament ſhould now be diſ<g ref="char:EOLhyphen"/>couraged?
+Shall <hi>London,</hi> that hath ſtood out ſo nobly, been a
+ſpeciall inſtrument in the Parliaments hands, to ſave the King<g ref="char:EOLhyphen"/>dome,
+ſpent ſo much treaſure, loſt ſo much bloud, ſtood ſo faſt
+in the libertie that God hath given them, and would not be
+entangled with the yoke of bondage, be now bewitch'd as it
+were into its own miſery, and utter undoing? Shall the glory
+of your former fame be throwne in the duſt? your gallant re<g ref="char:EOLhyphen"/>ſolutions,
+and unparallel'd tranſactions, be all buried in the
+grave of oblivion? and at the laſt gaſp (as it were of our ene<g ref="char:EOLhyphen"/>mies
+hopes) <hi>London</hi> ſhould revive their fainting ſpirits, and put
+life into their dying hearts? Shall the whole Kingdome, that
+<pb facs="tcp:113643:7"/>
+was almoſt ready, in all its quarters (conſulting of tokens of
+thankfulneſſe) to congratulate with <hi>London,</hi> for all its love,
+and care, paines, and purſes, and their generall ſafety (through
+Gods bleſſings) the fruit hereof, throw by theſe thoughts? and
+with ſad hearts, and pale faces, wringing hands, and running
+eyes, tell their wives, and children, friends, and neighbours,
+Woe, and alas, <hi>London</hi> will ruine us, <hi>London</hi> begins to decline
+the Parliament, <hi>London</hi> begins to cloſe with the King, <hi>London</hi>
+is fild with the Malignants language! <hi>London</hi> Remonſtrates, to
+the Parliaments prejudice! Will not this prove the perpetuall
+language of ſucceeding ages, that (if <hi>London</hi> ſhould now deſert
+the Parliament, and tyranny once get up in the throne by means
+hereof) <hi>Londons Citie is Englands woe?</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> You further acknowledge the particular aſſurance this
+honourable Houſe hath again given the whole Land, in their late De<g ref="char:EOLhyphen"/>claration,
+to lay hold on the firſt opportunity of procuring a ſafe and
+well-grounded Peace in the three Kingdomes, which you doubt not
+but this honourable Houſe will purſue with all ſpeedy diſpatch of Pro<g ref="char:EOLhyphen"/>poſitions
+to His Majeſty, now whilſt God doth ſo mercifully and mi<g ref="char:EOLhyphen"/>raculouſly
+goe along with your Armies in all the parts of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>That Declaration, that gave you this aſſurance, aſſured you
+likewiſe, whence it was, the thing was not done, but ſuppoſe,
+that (providence quite altering the ſtate of affaires) the Par<g ref="char:EOLhyphen"/>liament
+judge Propoſitions for Peace are not now ſo ſutable, ſo
+ſeaſonable, as then they were, when they promiſed the ſame;
+muſt not they judge, what is moſt meet to be done in ſuch a
+caſe? Propoſitions for Peace, are to be tendred to enemies, not
+to friends; doth his Majeſty continue the Parliaments enemy?
+if ſo, his comming to our Quarters, is evidently then, a deſigne
+of miſchiefe, and not of peace; and the truth is, an enemy will
+doe more miſchiefe in his adverſaries quarters, then in his own;
+but, if he be our enemy, and yet in our hands, ſuch Propoſiti<g ref="char:EOLhyphen"/>ons,
+as before were tendred, may not conſiſt with wiſdome,
+and policie, to tender now, the caſe is altered, the Market is
+fallen<g ref="char:punc">▪</g> men will not give for the commoditie thereof, as they
+would before; now you ſee his Majeſty is in our own quarters,
+and <hi>God doth mercifully and miraculouſly goe along with our Armies
+in all the parts of the Kingdome.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:113643:8"/>
+               <hi>Fifthly, You minde the Parliament of</hi> our brethren of Scot<g ref="char:EOLhyphen"/>land,
+how they were firſt invited to engage with this Kingdome in
+Gods cauſe, when yet they were at peace at home, in what Covenant
+this Nation is mutually linked with them, at what time, in relation
+both to the weak condition of our Forces then, and the ſeaſon of the
+yeare, they adventured upon an Enemy warmly lodged, and well ar<g ref="char:EOLhyphen"/>med,
+and prepared; what they have ſince ſuffered for this Cauſe in
+their own Kingdome, how ſuccesfull ever ſince God hath made our
+Forces in ſuppreſſing the Common Enemies of both Nations, and what
+preſent hopes wee have of a well-ſetled Peace, while wee continue in
+this mutuall Amitie; And then cannot but lament the many jea<g ref="char:EOLhyphen"/>louſies
+which the Enemies of our Peace, <g ref="char:V">Ʋ</g>nion, and good Government,
+doe now ſtrive to beget between both Nations, and tremble at the ſad
+effects thereof, if not timely prevented by the wiſdome of the Parlia<g ref="char:EOLhyphen"/>ment
+of both Kingdomes.</p>
+            <p>It is moſt true, their love, and kindneſſe, is never to be for<g ref="char:EOLhyphen"/>gotten;
+for although it is true,</p>
+            <p>Firſt, that both they, and wee, are embarqu'd in one and
+the ſelfe-ſame veſſell, and wee ſinke and ſwim; ſtand and fall
+together, and <hi>Englands</hi> miſery, will be <hi>Scotlands</hi> woe, ſo that
+what ever they have done for us, it is virtually for themſelves:
+and although,</p>
+            <p>Secondly, theſe miſerable warres, and bloudy blowes, which
+fell upon us, were firſt attempted for our <hi>Scotch</hi> brethren, but
+<hi>Englands</hi> Parliament (then in beeing) would not conſent
+to ſuch unnaturall warres, and by that means kept off the
+blows from our <hi>Scotch</hi> Brethren, as all can witneſſe; and al<g ref="char:EOLhyphen"/>though,</p>
+            <p>Thirdly, this Kingdome hath been likewiſe ready to helpe
+the <hi>Scots,</hi> in a former caſe, of their like neceſſitie, againſt their
+enemies; as is moſt apparent by authentick Hiſtories, and a
+forme of thankſgiving, formerly appointed by the Church of
+<hi>Scotland,</hi> for the good ſucceſſe of their <hi>Engliſh</hi> ayde, (a Copie
+whereof is added at the end of this Book) that wee may ever
+obſerve the due care both Kingdomes ſhould have for the
+mutuall peace and proſperitie of both Kingdomes; and al<g ref="char:EOLhyphen"/>though,</p>
+            <p>Laſtly, we muſt not look ſo much on our Brethrens ſucceſſes,
+<pb facs="tcp:113643:8"/>
+as their good intentions, meaſuring their love by their endea<g ref="char:EOLhyphen"/>vours,
+and not events; yet let that mouth be for ever ſhut up,
+and that hand wither, which ſhall maliciouſly ſpeak, or write
+the leaſt word, to foment jealouſies between both Kingdomes;
+and confident I am, that this heavie curſe will fall upon none,
+but that party who joyne iſſue with the old deſigne, of promo<g ref="char:EOLhyphen"/>ting
+their perſonall Intereſts and baſe ends, of Honour and
+greatneſſe in the publick miſery.</p>
+            <p>
+               <hi>Sixthly, you ſay you</hi> cannot but with reverence look upon this
+Honourable Houſe as truſted with a great ſhare of the ſupreme pow<g ref="char:EOLhyphen"/>er
+of this Kingdome, and as it is the repreſentative of the whole Na<g ref="char:EOLhyphen"/>tion,
+out of which and by whom, the Members thereof are choſen, doe
+fixe your hearts the more upon the ſame, and doe by the mercy of God,
+ſo long as this Kingdome doth adhere to our Covenant, promiſe your
+ſelves now and in all future ages, great bleſſings and aſſurances from
+the endeavours and labours of this Honourable Houſe; and in regard
+of this dignity of Truſt, you have and doe ſubmit to all Priviledges of
+Parliament; yet becauſe it may now become a Tenure for life, if this
+priviledge ſhould be ſo made uſe of by ſuch Members of Parliament as
+owe great ſummes of Money, and protect divers under them as Ser<g ref="char:EOLhyphen"/>vants,
+Attendants, Officers, yea, and their Servants, if all theſe
+ſhould be exempted from courſe of Law, how many Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+and other Subjects of this Kingdome may be undone? you doe
+therefore with all Duty and Thankfulneſſe put this Honourable Houſe
+in minde, that in a Remonſtrance to the Kingdome, 15. <hi>December,</hi>
+1642. you find this expreſſion; <hi>viz.</hi> That for the matter of Pro<g ref="char:EOLhyphen"/>tections,
+the Parliament is ſo ſenſibe of it that therein they intend to
+give whatſoever eaſe may ſtand with Honour and Juſtice, and are in
+a way of paſſing a Bill to give ſatisfaction concerning the ſame.</p>
+            <p>Is it the <hi>great ſhare this Honourable Houſe hath of the ſupreme
+power of this Kingdome,</hi> which makes you <hi>looke with reverence</hi>
+upon it, or an opinion, that it hath but a <hi>ſhare of the ſupreme
+power of this Kingdome</hi> that you have no more reverence unto it?
+will you not allow ſo much unto the repreſentative Kingdome,
+in reference to the whole Kingdome, as the repreſentative Ci<g ref="char:EOLhyphen"/>ty
+will aſſume unto themſelves in reference to <hi>London?</hi> Is
+not the Parliament of <hi>England</hi> the repreſentative Kingdome?
+And doth not the whole <hi>Supreme power of this Kingdome</hi> reſide
+<pb facs="tcp:113643:9"/>
+therein? And if ſo, why ſay you they have a <hi>Share?</hi> Unfold
+your Riddle, and ſpeak it out; if our judgement deceive us, we
+are willing to be informed. Was the like inſinuation, and divi<g ref="char:EOLhyphen"/>ding
+principle ever ſuggeſted unto the common people; except
+it was from his Majeſties Declarations? there is little doubt, that
+(however the City is blinded herein) the riſe of this buſineſſe
+come from Court, let the Author of a little book lately pub<g ref="char:EOLhyphen"/>liſhed,
+entituled, <hi>A full anſwer to the Plea for the Commonalty of
+London,</hi> (except he himſel is become <hi>enervatus</hi> in his judgement
+and reaſon) ſtand up like a man of right Principles, and true
+thereunto, and plead the juſt power of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+as he hath well done of the Commons of <hi>London,</hi> and
+therby he wil ſhew himſelf the <hi>Parliaments</hi> friend, as he hitherto
+hath done: But what do you mean, when you ſay the <hi>Parliaments</hi>
+priviledges may now become <hi>a tenure for life?</hi> Surely had this
+paſſage been found from one of the old Declarations fro<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Oxf<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd</hi>
+againſt the <hi>Parliament,</hi> it could not be judged any thing elſe, but
+a malignant ſcorn, &amp; a notorious jeer, being of the ſame affinity
+with the like paſſages found therein: <hi>viz. a perpetuall Parliament,</hi>
+and an <hi>everlaſting Parliament.</hi> If any Members of that Houſe doe
+<hi>owe great ſummes of Monies, and protect divers under them as Ser<g ref="char:EOLhyphen"/>vants,
+whereby they plead exemption from the courſe of Law; and
+ſo Citizens or others are undone, or endammaged thereby;</hi> let the
+parties agrieved frame their Petitions and complaine of the
+men, and let not <hi>London</hi> remonſtrate this to the Parliaments
+prejudice: it is very true, the intention of the <hi>Parliament</hi> is the
+good of all, the butt of none; every mans benefit, no mans
+<hi>undoing;</hi> yet remember your Covenant, the preſervation of
+the <hi>Parliaments</hi> Priviledges is a maine Article thereof, if any
+priviledge proves prejudiciall to the Subjects benefit; you your
+ſelves ſay, they did anticipate your deſires, by that <hi>Remonſtrance
+of the 15. of December, 1642. Yea were then in a way of paſſing a
+Bill, to give ſatisfaction concerning the ſame,</hi> and have any Bills
+been paſt ſince that time, and that neglected? and is the caſe
+now, with the faithfull Members of this preſent <hi>Parliament,</hi> as
+it was then? Is it not notoriouſly known, that their faithfull
+ſticking unto the Kingdomes Cauſe, hath been the utter undo<g ref="char:EOLhyphen"/>ing
+of themſelves, and their Families? whilſt they have been
+<pb facs="tcp:113643:9"/>
+here in the Kingdomes ſervice, the common enemy hath wa<g ref="char:EOLhyphen"/>ſted,
+ſpoyled, burned, plunder'd, and ruin'd their Eſtates, but
+the truth is, this kind of Dialect concerning the <hi>Parliament,</hi> in
+Print (for the peoples view) doth import no leſſe then an evi<g ref="char:EOLhyphen"/>dent
+charge, that <hi>Parliament</hi> men are now mean men, of bro<g ref="char:EOLhyphen"/>ken
+Fortunes, men that cannot, or elſe (which is worſe) men
+that will not<g ref="char:punc">▪</g> 
+               <hi>pay their debts,</hi> but live upon the people, and
+make a trade of it, and the ſame ſhall be a <hi>tenure for life.</hi>
+            </p>
+            <p>
+               <hi>Seventhly, you proceed further, and tell the people</hi> the
+Kingdome is almoſt reduced, by which meanes the Revenues of the
+Kingdome will be unburthened, and the Cuſtomes and Exciſe increaſe,
+and the publike charge of the Kingdome decreaſe, now that Delin<g ref="char:EOLhyphen"/>quents
+doe daily come in and compound, and now that the Enemy
+hath but few Holds left, we hope that the great and extraordina<g ref="char:EOLhyphen"/>ry
+Taxes and burthens on this City and their Trade, ſhall be in the
+future abated; that the Debts owing to the City and Citizens of
+<hi>London,</hi> either by particular Aſſurances of the Parliament, or up<g ref="char:EOLhyphen"/>on
+the publike faith of the Kingdome, be taken care for and diſchar<g ref="char:EOLhyphen"/>ged,
+as well as thoſe aſſigned upon the Exciſe, and may not be diver<g ref="char:EOLhyphen"/>ted
+from the uſes appointed by former Acts and Ordinances.</p>
+            <p>If ſo; have a little more patience, your debts owing you, are
+coming apace, eight <hi>per. cent.</hi> ſhall reward you for it, you can<g ref="char:EOLhyphen"/>not
+but ſee extraordinary charges doe ſtill appeare, the pay<g ref="char:EOLhyphen"/>ment
+of our Armies; long in Arrears, though ſufficiently a<g ref="char:EOLhyphen"/>ctive
+in the Kingdomes ſervice; the vaſt ſummes paid to the
+<hi>Scotch</hi> Army; the relief of <hi>Ireland;</hi> and many wayes more, ſo
+many Garriſons, ſo many Parties, ſo many Sieges doe pray
+your patience a little longer; but muſt every particular have
+a charge in the bowels of it? What ſummes of monies are by
+the <hi>Parliament diverted from the uſes appointed by their Acts and
+Ordinances?</hi> if none, what is the ground of this particular thus
+remonſtrated? is it becauſe of ſome few gratuities lately con<g ref="char:EOLhyphen"/>fer'd
+upon deſerving men, for their valiant, painfull, and faith<g ref="char:EOLhyphen"/>full
+ſervices for the publick ſafety? are not ſuch ſums employed
+in the <hi>uſes appointed in their Acts and Ordinances?</hi> muſt the <hi>Par<g ref="char:EOLhyphen"/>liament</hi>
+of <hi>England</hi> adviſe with <hi>London,</hi> about the disburſe<g ref="char:EOLhyphen"/>ments
+of the publick ſtock?</p>
+            <p>Eightly, you complaine of the <hi>Committees</hi> work at <hi>Haber<g ref="char:EOLhyphen"/>daſhers-Hall,</hi>
+               <pb facs="tcp:113643:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:113643:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:113643:11"/>
+as a grievance to the City: <hi>viz.</hi> that any more
+Malignants ſhould be detected, or further courſe taken, to find
+out Delinquents, which have not as becomes them aſſiſted the
+<hi>Parliament:</hi> ſurely they little thought the times would ſo face
+about, as that <hi>London</hi> ſhould turne Delinquents advocate; we
+ſay no more to this, but <hi>remember your Covenant.</hi>
+            </p>
+            <p>Ninthly, you further proceed, and profeſſe your zeale for
+our bleeding Brethren of diſtreſſed <hi>Ireland,</hi> &amp;c. It is a good
+motion, and for Gods ſake doe not binder ſo good a work, by
+weakning the <hi>Parliaments</hi> Party, by any more ſuch Remon<g ref="char:EOLhyphen"/>ſtrances,
+as theſe.</p>
+            <p>Tenthly, in the laſt place, you heap up your deſerts and your
+grievances together: to the firſt, we confeſſe you did run well;
+Suffer not your Crowne to be taken away by your diſcontinu<g ref="char:EOLhyphen"/>ance
+in your work begun; but yet conſider, have you done
+more, then the Law of God, of nature, of Nations engaged
+you? Hath all this been for the <hi>Parliament,</hi> or for your ſelves?
+was not your Eſtates, your Liberties, your freedomes the grand
+price of your Enemies race? the Crowne they ſtrive for? the
+ſpoyles they fight for? Speake your Conſciences; what had
+become of you by this very day, if the preſent <hi>Parliament</hi> had
+not ſtuck to you? what of your Religion? what of your E<g ref="char:EOLhyphen"/>ſtates?
+what of your Liberties? Hath it not been in their pow<g ref="char:EOLhyphen"/>er
+every day to ruine you, yea, and (perhaps) by their perſo<g ref="char:EOLhyphen"/>nall
+preferments to advance themſelves? Have not the Subjects
+Liberties been deare in their eyes? have they not layen under
+many temptations, many diſcouragements, to continue con<g ref="char:EOLhyphen"/>ſtant
+under them all? were all able to abide the ſame? why
+then did many deſert the Houſe? How often have they prote<g ref="char:EOLhyphen"/>ſted
+by word of mouth in your common Halls, and many De<g ref="char:EOLhyphen"/>clarations,
+in the publick view of Heaven and Earth, that they
+would live with you and dye with you, ſtand, or fall with you,
+that they would never leave you, till they had made you free,
+and have they not been faithfull in their promiſe herein?
+Is not their preſervation your ſecurity? their glory your
+Crowne? their freedomes your Liberties? As for your grie<g ref="char:EOLhyphen"/>vances,
+we conſider them as they lye.</p>
+            <p>Firſt, you complaine, that <hi>the Letter ſent you from the Parlia<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:113643:11"/>
+of</hi> Scotland, <hi>ſhould ſtill be detained though petitioned for, as
+if this Honourable Houſe were doubtfull of your fidelity:</hi> We ſuppoſe
+the Houſe is not bound to be accountable to you, though you
+are obleiged to account to them in this particular; and whether
+they <hi>be doubtfull of your fidelity or no,</hi> we cannot tell, onely we
+wiſh they may have no cauſe. Your next complaint is, that <hi>in
+the laſt Propoſitions to his Majeſty at</hi> Uxbridge <hi>the power of the
+Militia of this City was fully repreſented, that it ſhould now be re<g ref="char:EOLhyphen"/>aſſumed,
+and endeavoured to be altered, to the endangering of this
+City, and parts adjacent: as if you now deſerved leſſe truſt from this
+Honourable Houſe, then a twelvemoneth agoe:</hi> We think it not
+ſafe to taxe the <hi>Parliaments</hi> wiſdome, in their ordering and diſ<g ref="char:EOLhyphen"/>poſing
+the power of the <hi>Militia,</hi> of City, or Kingdome, as
+they ſhall ſee cauſe: and it cannot be aſſerted, that <hi>their reaſſu<g ref="char:EOLhyphen"/>ming
+the Militia of</hi> London, <hi>into their owne hands, is matter of
+danger to the City of</hi> London, <hi>and parts adjacent;</hi> without an
+unworthy aſperſion upon that Honourable Houſe; ſuch, that
+will ſay ſo, give juſt cauſe to think, that <hi>they deſerve leſſe truſt
+from that Honourable Houſe then a twelvemoneth agoe,</hi> when they
+were better affected then ſo to affirme. Thirdly, you complaine
+and remonſtrate, that <hi>ſome late Petitions of this Citie, preſented
+to this Honourable Houſe, ſhould lie yet unanſwered;</hi> If the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi>
+were bound to anſwer all your Petitions, and that forth<g ref="char:EOLhyphen"/>with
+even in your owne time, why did not you rather enjoyn
+then petition? and if all your Petitions ſhould be anſwered
+to your owne content, we well perceive how the caſe would
+ſtand with this poore Kingdome; the <hi>Parliaments</hi> love both to
+City and Kingdome may cauſe them to deny the Petitions of
+the City; as the caſe may ſtand. Your fourth complaint, that
+<hi>Quarterman a notorious Sectary, one whom the City not long
+ſince caſt out for his miſdemeanors, ſhould preſume, in the contempt of
+the priviledges and Government thereof, to enter the City, and to
+make Proclamation with Trumpet, without acquainting the Lord
+Major therewith; the like of which (to our beſt knowledge) in no
+age, when the City was moſt neglected, was ever ſo much as attempted.</hi>
+            </p>
+            <p>What <hi>Quatermain</hi> doe you meane? there are many in the
+Kingdome, for all that we know, but we preſume you intend
+<hi>Roger Quatermain,</hi> late Marſhall to the City. That this <hi>Qua<g ref="char:EOLhyphen"/>terman</hi>
+               <pb facs="tcp:113643:12"/>
+is a Sectary, lies upon you to prove, and him to de<g ref="char:EOLhyphen"/>fend;
+and herein you will befriend our intellects, and helpe us
+to underſtand, what you mean by your Sectaries, againſt
+whom you ſo much ſtickle in this Remonſtrance: That the
+Citie caſt him our (<hi>viz.</hi> from his Marſhallſhip) for ſo wee
+preſume your meaning is, (though you ſpeake as diſturbed,
+that the Reader muſt ſtudy to finde out your meaning) will
+be denied by one of the chiefe promoters of this Remon<g ref="char:EOLhyphen"/>ſtrance,
+except he hath changed his judgement in the Go<g ref="char:EOLhyphen"/>vernment
+of the Citie, (as ſometimes it falls out, men conti<g ref="char:EOLhyphen"/>nue
+not their judgement, eſpecially in matters of govern<g ref="char:EOLhyphen"/>ment
+both civill and eccleſiaſticall) for it was neither the
+Citie repreſentative, or collective, but the Lord Major,
+and Court of Aldermen, that put him out of the place, and
+ſurely, they are no more the Citie in that act (except
+the Common Counſell gave them power herein, as wee can<g ref="char:EOLhyphen"/>not
+underſtand they have) then any other Citie Juſtices,
+or Officers in the Citie are ſo. As <hi>for his miſdemeanors,</hi> none
+were urged as the cauſes hereof, except this was his crime,
+that one Marſhall ſhould ſerve the Citie. And though it is a
+crime circumſtantiable to a great aggravation for one man
+to wrong a whole Citie; yet it is more ſtrange (becauſe leſſe
+uſuall) that a repreſentative Citie ſhould wrong a poore
+man, by taking away his good name, and ſo his livelihood in
+his preſent employment. As for his great tranſgreſſion herein
+ſpecified, wee dare preſume, the poore man is ignorant of the
+Citie priviledges, i<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this be one, that the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+cannot make Proclamation, in the Citie of <hi>London,</hi> with
+Trumpet, or otherwiſe, without licence given by the Lord
+Major of <hi>London.</hi> If the caſe be thus, well may you ſay, that
+the Parliament of <hi>England</hi> is betruſted but with a <hi>ſhare of the
+ſupreame power.</hi> Cuſtome is one thing, priviledge another;
+that it is a cuſtome to acquaint the Lord Major in ſuch caſes,
+is quickly granted: and if he did willingly, and wilfully, in
+contempt of the Major, or cuſtomes of the Citie, performe
+that worke, he is blame-worthy, and not to he pleaded for;
+but when ſuch cuſtomes, of ſingle Corporations, ſhall en<g ref="char:EOLhyphen"/>trench
+upon the power of Parliaments, and change their
+<pb facs="tcp:113643:12"/>
+names, and call them <hi>Priviledges;</hi> it is high time, to change
+thoſe cuſtomes. Many cuſtomes, in former times, had almoſt
+undone the Kingdome; wee would not now meet with any
+that raze our foundation, and ſtrike at the Parliament.</p>
+            <p>
+               <hi>And laſtly, You complain that</hi> after the preſent Lord Major
+had ſo faithfully behaved himſelf in his Office, and with the teſtimony
+of the Citie, ſo carefully diſcharged the ſame, that yet he ſhould be
+ſuſpected and queſtioned upon generall informations, which (it may
+well be doubted) might be deſigned to divide between the Parlia<g ref="char:EOLhyphen"/>ment
+and the Citie.</p>
+            <p>If generall informations that doe greatly concerne the
+publique danger of the Citie, or Kingdome, ſhould be ſo far
+neglected, as not ſo much as to make an enquiry, according
+thereto; how could they, to whom they doe come, diſcharge
+their conſciences, and Covenant, to God, or the people? The
+Lord Majors faithfulneſſe can never hurt him; and a faithfull
+man, may lie under ſuſpition, but will take no offence at a
+through purgation; as we heare his Lordſhip himſelfe is ſuf<g ref="char:EOLhyphen"/>ficiently
+ſatisfied; and if former faithfulneſſe ſhould for ever
+diſcharge all future jealouſies, (though but <hi>generall informati<g ref="char:EOLhyphen"/>ons</hi>
+be given of danger) the two <hi>Hothams,</hi> and many more,
+might have now lived, and by this time ſeen the Parliament
+and Citie weltering in their own bloud.</p>
+            <p>
+               <hi>More you could adde,</hi> but you have done enough, if not too
+much of this nature, and more, I preſume, then was ever ex<g ref="char:EOLhyphen"/>pected
+from this Citie. You preſently ſlide from your re<g ref="char:EOLhyphen"/>monſtrative
+part, into the prayer or petitionary part; and ſo
+ſhall wee, and give you to underſtand, wherein wee can, and
+wherein we cannot joyn with you in your deſires to the Par<g ref="char:EOLhyphen"/>liament;
+with the reaſons thereof, which is the ſecond gene<g ref="char:EOLhyphen"/>rall
+head of our preſent method; you reſolve your complaints
+into prayers.</p>
+            <p>1. That ſome ſtrict and ſpeedy courſe may be taken for the ſup<g ref="char:EOLhyphen"/>preſſing
+all private and ſeparate Congregations.</p>
+            <p>Wee know not your meaning by <hi>private and ſeparate Con<g ref="char:EOLhyphen"/>gregations,</hi>
+if your meaning be the private meetings of Chri<g ref="char:EOLhyphen"/>ſtian
+people, for prayer, exhortation, repetition of Sermons,
+or any other laudable and Chriſtian duty amongſt the Saints,
+<pb facs="tcp:113643:13"/>
+in their private aſſemblies, as ſure we are, your words doe
+import, abhorr'd be your requeſt by God and good men, and
+the Lord prevent the Parliament from ever ſtumbling at that
+ſtone. What you mean, wee cannot tell; wee would not de<g ref="char:EOLhyphen"/>ſire,
+wee doe not know what; wee cannot joyne with you in
+this Petition.</p>
+            <p>2. That all Anabaptiſts,<note place="margin">This is the ſelfe ſame <hi>et cae<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ra</hi> that was in the Bi<g ref="char:EOLhyphen"/>ſhops Oath, and <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ub<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leſſe the Epiſcopall party cannot but look upon this as the reſurrection from the dead, onely herein it differs, they enjoyned men to ſweare to what they knew, this would have men reſolve upon what they know not; and ſo it is a ſtep nee<g ref="char:EOLhyphen"/>rer to Popety.</note> Browniſts, Heretiques, Schiſmalicks,
+Blaſphemers, and all ſuch Sectaries as conforme not to the publique
+Diſcipline eſtabliſhed, or to be eſtabliſhed by Parliament, may be
+fully declared againſt, and ſome effectuall courſe ſetled for proceed<g ref="char:EOLhyphen"/>ing
+againſt ſuch perſons.</p>
+            <p>Firſt, <hi>Anabaptiſts, Browniſts, &amp;c.</hi> in the Kings Declarati<g ref="char:EOLhyphen"/>ons
+did alwayes intend the Parliaments friends; and beſides
+theſe, whom you mean wee cannot tell.</p>
+            <p>Secondly, if all ſuch <hi>Sectaries as conforme not to the publique
+Diſcipline eſtabliſhed or to be eſtabliſhed by the Parliament, muſt be
+fully declared againſt, and ſome effectuall courſe taken for proceed<g ref="char:EOLhyphen"/>ing
+againſt ſuch perſons;</hi> What ſhall become of our Presbyte<g ref="char:EOLhyphen"/>rian
+brethren, which hold Presbytery to be <hi>jure divino,</hi> and
+cannot ſubmit unto Commiſſioners over the Presbytery,
+though eſtabliſhed by Ordinance of Parliament? Surely the
+Remonſtrants are not of that opinion, but if they be, their
+feet are taken in the ſame ſnare they laid for their brethren.
+If this Petition ſhould be granted, our Presbyterian brethren
+as well as others, muſt be ſuppreſſed: and for that cauſe
+(though no ſuch allowance is given by them unto their weak
+brethren) wee cannot joyne with you in that Petition.</p>
+            <p>3. That as wee are all Subjects of one Kingdome, ſo all may be
+equally required to yeeld obedience unto the Government ſet forth,
+or to be ſet forth by the Parliament.</p>
+            <p>To reſolve to ſubmit to what wee know not, in matters of
+Religion, and to Petition the ſuppreſſion of all that will not
+ſubject thereunto, is againſt the principles of Religion and
+Reaſon; wee cannot conceive, a Parliament ſo religious, ſo
+rationall, will prove ſo irreligious, ſo irrationall, as to enforce
+the Subjects to ſtifle the light of their own Conſciences; and
+let God and conſcience ſay what they will, to ſweare confor<g ref="char:EOLhyphen"/>mitie
+to the will of man, in matters of Church-Government
+wee cannot joyne with you in this Petition.</p>
+            <p>
+               <pb facs="tcp:113643:13"/>
+4. That no perſon diſaffected to the Presbyteriall Government,<note place="margin">The Biſhops to our beſt remembr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce did never ſo publiquely make the like motion to the Magiſtracy of this Kingdom.</note>
+ſet forth, or to be ſet forth by the Parliament, may be employed in a<g ref="char:EOLhyphen"/>ny
+place of publick Truſt.</p>
+            <p>Wee judge our ſelves bound, to leave that buſineſſe to the
+Parliaments wiſdome, as ſuppoſing them beſt able to judge
+what is meet to be done in that particular. If men prove faith<g ref="char:EOLhyphen"/>full
+in their truſt, intamperable by their adverſaries, ſucceſ<g ref="char:EOLhyphen"/>full
+in their worke, untainted in their integrity, courageous
+in their ſervices, &amp;c. ſuch men are not uſually after many
+experiences of ſuch particulars, put out of their publick truſt
+(though they ſhould be an Army of <hi>Turks</hi>) and why men
+ſhould be diſcharged from their <hi>publick truſt</hi> for ſo ſmall a
+punctillo, as difference in judgement about Church-Govern<g ref="char:EOLhyphen"/>ment;
+nay, ſo much as <hi>diſ-affection</hi> to the Presbyteriall Govern<g ref="char:EOLhyphen"/>ment,
+for that's your expreſſion, we ſee no cauſe; and truly,
+if this deſire ſhould be granted, as the caſe now ſtands, the
+Parliaments ſtrength would be much abated, and the Malig<g ref="char:EOLhyphen"/>nant
+Rovaliſts very much pleaſed, wee are none of them, wee
+cannot cloſe with you in this Petition.</p>
+            <p>5. That this Honorable Houſe will pleaſe to haſten Propoſiti<g ref="char:EOLhyphen"/>ons
+to his Majeſty, for ſetling of a ſafe and well-grounded Peace a<g ref="char:EOLhyphen"/>mongst
+us, after ſo long and unnaturall a Warre.</p>
+            <p>A well grounded peace is our hearty deſires as well as
+yours; but whether to be ſought for by tendering Propoſiti<g ref="char:EOLhyphen"/>ons
+from the Parliament to his Majeſty, the wiſdome of the
+Parliament, not wee, muſt determine. When a man meets
+mee to take away my purſe, my life; if the combate be over,
+and the party diſarm'd, and his weapons in mine own hands,
+I will not indent how much he ſhall have to doe no more;
+when the truth is, he hath done his worſt; A well grounded
+Peace we deſire with you, the means hereunto wee leave to
+the Parliaments wiſdome, wee would not offend them, wee
+therefore wave this Petition.</p>
+            <p>6. That this Honourable Houſe, according to the Covenant and
+Treaties, will pleaſe to ſtudy all meanes to preſerve the <g ref="char:V">Ʋ</g>nion be<g ref="char:EOLhyphen"/>tween
+the two Nations of <hi>England</hi> and <hi>Scotland,</hi> and to remove
+all jealouſies which may endanger our mutuall agreement.</p>
+            <p>We cloſe with you here with all our hearts, and heartily
+<pb facs="tcp:113643:14"/>
+pray that wiſdome may be given to them from God to direct
+their <hi>ſtudies</hi> to ſo good a work.</p>
+            <p>
+               <hi>VII.</hi> That this Honourable Houſe will pleaſe to conſider of ſome
+meanes whereby the priviledge which its Members their Servants
+and others enjoy by being protected and exempted from being proceed<g ref="char:EOLhyphen"/>ed
+againſt for their Debts, may be ſa qualified, as that the Subject
+may be able to recover his owne in ſome due time.</p>
+            <p>This Petition implies a charge; we will not at all intermed<g ref="char:EOLhyphen"/>dle
+herein.</p>
+            <p>
+               <hi>VIII.</hi> That all publike Revenues and Receipts may be employed
+to publike uſes, that ſo the Taxes of the City may be abated.</p>
+            <p>We know no publike Revenues imployed at all by the <hi>Parli<g ref="char:EOLhyphen"/>ament</hi>
+of <hi>England,</hi> for any other then publike uſes; and if this
+Petition may be altogether cleare from ſecret aſperſions of our
+worthy <hi>Parliament,</hi> we can fully joyn with you in this particular.</p>
+            <p>
+               <hi>IX.</hi> That the Eſtates and Compoſitions of Delinquents, may, ac<g ref="char:EOLhyphen"/>cording
+to the engagements by Ordinances of Parliament, be applyed
+to diſcharge the great ſummes owing to this City and Citizens.</p>
+            <p>The publike Faith for the publique debts will be valid (we
+doubt not) and in due ſeaſon will ſo appeare; we hope they
+minde the main what ever becomes of particular caſes, due
+time will be time enough, we durſt not engage (as the caſe
+ſtands) with this Petition.</p>
+            <p>
+               <hi>X.</hi> That the <hi>Plymouth</hi> Duty may be taken off the Trade, eſpecial<g ref="char:EOLhyphen"/>ly
+now the Weſt is reduced.</p>
+            <p>That poore Garriſon is ſtill to be encouraged: Surely theſe
+are the laſt times when mercy and charity waxeth cold, we ut<g ref="char:EOLhyphen"/>terly
+wave this Petition.</p>
+            <p>
+               <hi>XI.</hi> That the Committee at <hi>Haberdaſhers-hall</hi> may be preſently
+diſſolved; or at leaſt ſo limited and regulated, as that the City may
+have no cauſe of complaint.</p>
+            <p>This Petition ſeems, in the firſt part of it, to favour Malig<g ref="char:EOLhyphen"/>nants,
+we remember our Covenant; wee cannot cloſe with you
+in this, the later is ours as well as yours.</p>
+            <p>
+               <hi>XII.</hi> That the reducing of the Kingdome of <hi>Ireland</hi> may be ta<g ref="char:EOLhyphen"/>ken
+into conſideration, before the good party there be too farre waſted
+and diſcouraged.</p>
+            <p>This is our Petition and prayer to God, wee joyn with you
+here with all our hearts.</p>
+            <p>
+               <pb facs="tcp:113643:14"/>
+               <hi>XIII.</hi> That the Originall Letter of the Parliament of <hi>Scotland</hi>
+to this Citie may be returned.</p>
+            <p>Wee leave this to the Parliaments wiſdome, and ſhall not
+at all intermeddle therewith.</p>
+            <p>
+               <hi>XIV.</hi> That the City may enjoy the Militia fully, as it was pre<g ref="char:EOLhyphen"/>ſented
+at the laſt Treaty at <hi>Uxbridge.</hi>
+            </p>
+            <p>Wee leave that unto the Parliaments wiſdome, and God di<g ref="char:EOLhyphen"/>rect
+them what to doe therein; we neither joyne with you nor
+againſt you in this particular, but onely wave it.</p>
+            <p>
+               <hi>XV.</hi> That <hi>Quarterman</hi> may be brought to ſome exemplary pu<g ref="char:EOLhyphen"/>niſhment,
+for the affront done by him to the Priviledges and Govern<g ref="char:EOLhyphen"/>ment
+of this Citie.</p>
+            <p>When wee are convinced of <hi>Quatermains</hi> affront to the privi<g ref="char:EOLhyphen"/>ledges
+and Government of this Citie, wee ſhall deſire with you
+his exemplary puniſhments; to condemne the innocent, is a great
+abomination, wee judge <hi>Quatermain</hi> ſo, till the contrary ap<g ref="char:EOLhyphen"/>peare;
+wee cannot joyn with you in this Petition.</p>
+            <p>
+               <hi>XVI.</hi> That the Lord Major of this City may be fully vindicated.</p>
+            <p>When wee once underſtand how, wherein, and by whom his
+Lordſhip was wronged, we would Petition with you for his
+vindication; in the mean while wee wave this Petition.</p>
+            <p>
+               <hi>XVII.</hi> And laſtly, and above all, That this honorable Houſe will
+pleaſe not to looke upon any expreſſions of this our Remonſtrance and
+Petition, as charging any thing upon this Honorable Houſe, or as in<g ref="char:EOLhyphen"/>tended
+to intrench upon any priviledge thereof, but favourably to ac<g ref="char:EOLhyphen"/>cept
+thereof, and ſo to interpret the ſame, as from a ſingle and humble
+heart it is ſincerely, and without any by-ends, or to comply with any
+Party whatſoever, intended and breathed forth from the ſad heart of
+the Petitioners, who are overwhelmed with many feares on all ſides.
+And who call God, the Searcher of all hearts, to witneſſe, that accord<g ref="char:EOLhyphen"/>ing
+to their Covenant and duty, their zeale, devotion and obedience,
+is as fervent and proſtrate as ever to ſerve the Parliament with their
+Lives and Eſtates, againſt all the Enemies of our Peace, to conjoyne
+the Citie more and more to the Parliament, and to maintaine the <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>on
+of both Nations againſt all oppoſers whatſoever.</p>
+            <p>This is an Apologie for the whole buſineſſe, and the truth, is,
+you have cauſe ſufficient, and we verily believe the like Remon-pray
+<pb facs="tcp:113643:15"/>
+that wiſdome may be given to them from God to direct
+their <hi>ſtudies</hi> to ſo good a work.</p>
+            <p>
+               <hi>VII.</hi> That this Honourable Houſe will pleaſe to conſider of ſome
+meanes whereby the priviledge which its Members their Servants
+and others enjoy by being protected and exempted from being proceed<g ref="char:EOLhyphen"/>ed
+againſt for their Debts, may be ſo qualified, as that the Subject
+may be able to recover his owne in ſome due time.</p>
+            <p>This Petition implies a charge; we will not at all intermed<g ref="char:EOLhyphen"/>dle
+herein.</p>
+            <p>
+               <hi>VIII.</hi> That all publike Revenues and Receipts may be employed
+to publike uſes, that ſo the Taxes of the City may be abated.</p>
+            <p>We know no publike Revenues imployed at all by the <hi>Parli<g ref="char:EOLhyphen"/>ament</hi>
+of <hi>England,</hi> for any other then publike uſes; and if this
+Petition may be altogether cleare from ſecret aſperſions of our
+worthy <hi>Parliament,</hi> we can fully joyn with you in this particular.</p>
+            <p>
+               <hi>IX.</hi> That the Eſtates and Compoſitions of Delinquents, may, ac<g ref="char:EOLhyphen"/>cording
+to the engagements by Ordinances of Parliament, be applyed
+to diſcharge the great ſummes owing to this City and Citizens.</p>
+            <p>The publike Faith for the publique debts will be valid (we
+doubt not) and in due ſeaſon will ſo appeare; we hope they
+minde the main what ever becomes of particular caſes, due
+time will be time enough, we durſt not engage (as the caſe
+ſtands) with this Petition.</p>
+            <p>
+               <hi>X.</hi> That the <hi>Plymouth</hi> Duty may be taken off the Trade, eſpecial<g ref="char:EOLhyphen"/>ly
+now the Weſt is reduced.</p>
+            <p>That poore Garriſon is ſtill to be encouraged: Surely theſe
+are the laſt times when mercy and charity waxeth cold, we ut<g ref="char:EOLhyphen"/>terly
+wave this Petition.</p>
+            <p>
+               <hi>XI.</hi> That the Committee at <hi>Haberdaſhers-hall</hi> may be preſently
+diſſolved; or at leaſt ſo limited and regulated, at that the City may
+have no cauſe of complaint.</p>
+            <p>This Petition ſeems, in the firſt part of it, to favour Malig<g ref="char:EOLhyphen"/>nants,
+we remember our Covenant; wee cannot cloſe with you
+in this, the later is ours as well as yours.</p>
+            <p>
+               <hi>XII.</hi> That the reducing of the Kingdome of <hi>Ireland</hi> may be ta<g ref="char:EOLhyphen"/>ken
+into conſideration, before the good party there be too farre waſted
+and diſcouraged.</p>
+            <p>This is our Petition and prayer to God, wee joyn with you
+here with all our hearts.</p>
+            <p>
+               <pb facs="tcp:113643:15"/>
+               <hi>XIII.</hi> That the Originall Letter of the Parliament of <hi>Scotland</hi>
+to this Citie may be returned.</p>
+            <p>Wee leave this to the Parliaments wiſdome, and ſhall not
+at all intermeddle therewith.</p>
+            <p>
+               <hi>XIV.</hi> That the City may enjoy the Militia fully, as it was pre<g ref="char:EOLhyphen"/>ſented
+at the laſt Treaty at <hi>Uxbridge.</hi>
+            </p>
+            <p>Wee leave that unto the Parliaments wiſdome, and God di<g ref="char:EOLhyphen"/>rect
+them what to doe therein; we neither joyne with you nor
+againſt you in this particular, but onely wave it.</p>
+            <p>
+               <hi>XV.</hi> That <hi>Quarterman</hi> may be brought to ſome exemplary pu<g ref="char:EOLhyphen"/>niſhment,
+for the affront done by him to the Priviledges and Govern<g ref="char:EOLhyphen"/>ment
+of this Citie.</p>
+            <p>When wee are convinced of <hi>Quatermains</hi> affront to the privi<g ref="char:EOLhyphen"/>ledges
+and Government of this Citie, wee ſhall deſire with you
+his exemplary puniſhments; to condemne the innocent, is a great
+abomination, wee judge <hi>Quatermain</hi> ſo, till the contrary ap<g ref="char:EOLhyphen"/>peare;
+wee cannot joyn with you in this Petition.</p>
+            <p>
+               <hi>XVI.</hi> That the Lord Major of this City may be fully vindicated.</p>
+            <p>When wee once underſtand how, wherein, and by whom his
+Lordſhip was wronged, we would Petition with you for his
+vindication; in the mean while wee wave this Petition.</p>
+            <p>
+               <hi>XVII.</hi> And laſtly, and above all, That this honorable Houſe will
+pleaſe not to looke upon any expreſſions of this our Remonſtrance and
+Petition, as charging any thing upon this Honorable Houſe, or as in<g ref="char:EOLhyphen"/>tended
+to intrench upon any priviledge thereof, but favourably to ac<g ref="char:EOLhyphen"/>cept
+thereof, and ſo to interpret the ſame, as from a ſingle and humble
+heart it is ſincerely, and without any by-ends, or to comply with any
+Party whatſoever, intended and breathed forth from the ſad heart of
+the Petitioners, who are overwhelmed with many feares on all ſides.
+And who call God, the Searcher of all hearts, to witneſſe, that accord<g ref="char:EOLhyphen"/>ing
+to their Covenant and duty, their zeale, devotion and obedience,
+is as fervent and proſtrate as ever to ſerve the Parliament with their
+Lives and Eſtates, againſt all the Enemies of our Peace, to conjoyne
+the Citie more and more to the Parliament, and to maintaine the <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>on
+of both Nations againſt all oppoſers whatſoever.</p>
+            <p>This is an Apologie for the whole buſineſſe, and the truth is,
+you have cauſe ſufficient, and we verily believe the like Remon<g ref="char:EOLhyphen"/>ſtrance
+<pb facs="tcp:113643:16"/>
+was never known from the City of <hi>London</hi> to the Parlia<g ref="char:EOLhyphen"/>ment
+of <hi>England.</hi> You would not have them <hi>look upon any expreſſi<g ref="char:EOLhyphen"/>ons
+in this Remonſtrance and Petition, as charging any thing upon the
+honourable Houſe;</hi> that is, you deſire them to throw by their un<g ref="char:EOLhyphen"/>derſtanding
+when they read your Remonſtrance. Though wee
+cannot joyn with you in this Petition, <hi>to accept</hi> your Remon<g ref="char:EOLhyphen"/>ſtrance,
+and grant your Petitions; yet wee humbly deſire this
+honourable Houſe, to paſſe by all provocations herein, and to
+meaſure their reſpects to this famous City, not according to
+ſome few weakneſſes, which through ſome powerfull inſinuati<g ref="char:EOLhyphen"/>ons
+may ſurprize the ſame, but to the conſtant, ſetled, and re<g ref="char:EOLhyphen"/>ſolved
+practiſes of the Inhabitants thereof, of which wee are
+confident there are many thouſands, that are ſtill ready to ſa<g ref="char:EOLhyphen"/>crifice
+themſelves to the ſervice of the Parliament: the onely
+means under the Almighty to preſerve both us and our poſteri<g ref="char:EOLhyphen"/>tie
+from ſlavery and miſery.</p>
+            <p>You have done with your Remonſtrance; but have you un<g ref="char:EOLhyphen"/>derſtood
+what you have done? Let us propound two or three
+<hi>Queries.</hi>
+            </p>
+            <p>Firſt, is it proper for one ſingle Corporation to Remonſtrate
+to the people their grievances, or indeed rather complaints a<g ref="char:EOLhyphen"/>gainſt
+the Parliament? do you not know the nature, the maje<g ref="char:EOLhyphen"/>ſty,
+the power of a Parliament? do <hi>Londons</hi> Magiſtracy no bet<g ref="char:EOLhyphen"/>ter
+underſtand the Parliaments Authority? are you become the
+primary pattern, and popular example to all the Kingdome of
+an unparalleld Remonſtrance? are you the chiefe Magiſtracy of
+<hi>London,</hi> and give ſuch a preſident? We ſay no more, but make
+this uſe of it, that wiſdome and weakneſſe may have their habi<g ref="char:EOLhyphen"/>tation,
+(yea ſometimes the latter may be predominant) even
+among wiſe and religious Rulers.</p>
+            <p>Secondly, did the Commons of <hi>London</hi> give you authoritie in
+their name to do that which is not at all within their Charter?
+if you act as Subjects, you act for your own perſons, and you
+have liberty of your ſelves ſo to doe, ſtanding or falling to your
+own perill; but if you act in the name of the Citie, whom you
+repreſent, know your bounds, looke to your rule, the Citie col<g ref="char:EOLhyphen"/>lective
+never gave you further authority, then to act within your
+<pb facs="tcp:113643:16"/>
+ſpheare, the Citie Charter; and if you doe otherwiſe, upon your
+perill be it, they'l not ſtand by you.</p>
+            <p>Thirdly, who were the chiefe promoters hereof? doubtleſſe
+Royaliſts, (to give it out in the ſofteſt language) the ſtile, the
+dialect, the matter, doe not theſe inſinuate prerogatives ad<g ref="char:EOLhyphen"/>vance,
+not a word throughout for puniſhing Malignants, for re<g ref="char:EOLhyphen"/>quiring
+juſtice againſt Delinquents; (a main article of our ſo<g ref="char:EOLhyphen"/>lemn
+League and Covenant) men would think that doubtleſſe
+ſome of the old Patentees, or men that builds their houſes by
+the ſubjects bondage, were the chiefe framers of this Remon<g ref="char:EOLhyphen"/>ſtrance.
+Surely, if that heart was right for the Parliament that
+framed this Remonſtrance, he hath an unhappy hand that tran<g ref="char:EOLhyphen"/>ſcrib'd
+his thoughts in ſo ſtrange a dialect; for the truth is, if this
+Remonſtrance had not been preſented by the City of <hi>London,</hi>
+our after-ages would ever have knowne it by the black Chara<g ref="char:EOLhyphen"/>cter
+of the <hi>Malignant Remonſtrance;</hi> it is not to be doubted but
+the Citie, though well affected, may be overtaken in an act un<g ref="char:EOLhyphen"/>worthy,
+(for even Parliaments have ſlipt, for they are but men)
+and therefore it is this one act, and not the perſons are here
+found fault withall.</p>
+            <p>But now to come to the laſt generall head, we deſire this ho<g ref="char:EOLhyphen"/>norable
+City ſeriouſly to conſider, what are the dangerous ten<g ref="char:EOLhyphen"/>dencies,
+and effects of ſuch kinde of Remonſtrances, and that in
+few particulars, very briefly, for wee are unwilling to harpe too
+much upon this unpleaſant ſtring.</p>
+            <p>Firſt, it tends to the manifeſt grieving of the hearts of our
+faithfull Parliament, who for our ſakes have ſuffered more baſe
+affronts, injuries, and loſſes, then ever any Parliament did be<g ref="char:EOLhyphen"/>fore
+them; Have we not often acknowledged them againe and
+againe to be the onely means (under God) of all the peace and
+liberties, eſtates and comforts that we doe enjoy? ſuppoſe their
+failings appear before us, have we never a garment to cover their
+nakedneſſe, but <hi>Ham</hi>-like wee call for the eyes of brethren and
+fellow-ſubjects to behold the ſame? was it not of God that the
+Parliament and <hi>London</hi> were joyn'd together, hand in hand, and
+heart in heart? and whence is it that this knot begins to be looſ<g ref="char:EOLhyphen"/>ned?
+have they not brought us (through the mercy of God) to
+<pb facs="tcp:113643:17"/>
+the ſight of our Inheritance, our liberties and freedomes, our
+Land flowing with milke and honey? ſhall wee now begin to
+murmure againſt our deliverers? is it not likely that God for this
+ſhould bring us back againe into the troubleſome wilderneſſe,
+more warres, and the bitter, bitter effects thereof? the clouds con<g ref="char:EOLhyphen"/>denſe
+&amp; thicken again, let us not grieve our God and our friends,
+the Parliaments faithfulneſſe God will not forget, and our un<g ref="char:EOLhyphen"/>thankfulneſſe
+he will not put up.</p>
+            <p>Secondly, Conſider whether ſuch kinde of Remonſtrances
+as theſe doe not weaken the Parliaments ſtrength? co<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fident
+wee are, (how ever <hi>London</hi> comes thus to be deluded, which
+cannot but be the amaz<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment of the Kingdome,) that the firſt
+originall of this Remonſtrance muſt needs be bred in a Malig<g ref="char:EOLhyphen"/>nants
+breſt, ſuch complaints for the peoples view, ſuch p<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>titi<g ref="char:EOLhyphen"/>ons,
+to ſuppreſſe the Parliaments friends, to remove faithfull,
+valiant, untamperable, and ſuccesfull Officers from places of
+truſt, to take away thoſe waies and means, whereby monies
+are procured to maintain the warres againſt the common ene<g ref="char:EOLhyphen"/>my,
+to preſſe them in all haſte to the payment of their debts;
+what are all theſe, but the direct deſires of the Parliaments e<g ref="char:EOLhyphen"/>nemies?
+and doe not all theſe things weaken the Parliaments
+ſtrength?</p>
+            <p>Thirdly, Conſider how this doth rejoyce the Malignants
+hearts, obſerve their faces, their diſcourſes, look into the pri<g ref="char:EOLhyphen"/>ſons,
+where Malignants are, what is their dialect? all will be
+well, the day is ours, the times face about, round-heads muſt
+fall, this Parliament muſt down, the City declines them, their
+armies muſt preſently be disbanded, the Kings friends exalted,
+their ſervices rewarded, all things work well, the City Re<g ref="char:EOLhyphen"/>monſtrance
+ſpeaks our minds, it ſtrikes at the root of the
+round heads proſperity, wee ſee now how the game goes.</p>
+            <p>Fourthly, conſider the probable tendency of this Remon<g ref="char:EOLhyphen"/>ſtrance
+in the opinion and judgement of the moſt conſiderable
+both of the Parliaments friends and enemies, the feare of the
+one ſort, the expectation of the other, and that is, implaine
+termes, the disbanding of our Armies, the diſcouraging of our
+friends, the utter diſenabling of the Parliament againſt any ad<g ref="char:EOLhyphen"/>verſaries
+<pb facs="tcp:113643:17"/>
+either foreine or domeſtick, that ſhall appear againſt
+them, the advancing of prerogative and arbitrary power, the
+exalting of all thoſe bloudy oppreſſors that in all theſe wars
+have ſought our ruine. Do not ſay theſe are the irrationall no<g ref="char:EOLhyphen"/>tions
+of a melancholy minde, the groundleſſe conceits of a
+crazie brain? no certainly, that kind of reaſon that draws na<g ref="char:EOLhyphen"/>turall
+concluſions from undoubted premiſes, or which judgeth
+of the proper effects from proper cauſes, ſteers the judgement
+in theſe aſſertions; let your own reaſon decide the matter, if
+the Parliament ſhould be diſabled in their Armies, in their
+monies, in their friends, as the granting of your petition would
+quickly effect; what would hinder the things wee affirme,
+take away the Parliaments ſtrength, and then the promiſe of
+ſetling the <hi>Militia</hi> to your hearts deſire, would ſecure you
+from ſlavery, as the ſetling of <hi>Presbytery</hi> would preſerve you
+from Popery; but the word of a King, and the faith of a favou<g ref="char:EOLhyphen"/>rite,
+will be all your ſecurity for the one and the other; is this
+a time to weaken the Parliament? is there no fear of incurſions
+from a foreine adverſary? hath not the <hi>French</hi> the ſword in his
+hand? do we not know, that the <hi>Quondam</hi> factors for <hi>Englands</hi>
+miſery, and thoſe that almoſt had ruin'd the Kingdome, have
+been tampering there for the old deſigne? is there no feare of
+incurſions from <hi>Ireland?</hi> are not they as ready to advance pre<g ref="char:EOLhyphen"/>rogative
+as ever they were? is our own nation ſetled in peace?
+is not every County almoſt diſturbed? and a party appearing
+upon any advantage in prerogatives quarrell? We ſay no more,
+we have diſcharged our Conſciences, it is not diſreſpect to au<g ref="char:EOLhyphen"/>thority,
+but conſcience of duty; not contembt of Magiſtracy, but
+love to the City; not private intereſt, but publick good which
+was the reall cauſe of what we have written; if <hi>London</hi> muſt taſt
+of that cup of trembling with the reſt of the Kingdome, it will
+be bitter indeed, when this will be minded, that <hi>Londons</hi> folly is
+<hi>Londons</hi> miſery; that God ſent Saviours for <hi>London,</hi> and would
+deliver it, &amp; they would not be delivered, but rejected the means
+of their own good, would none of his mercies, deſpiſed his coun<g ref="char:EOLhyphen"/>ſells,
+diſcouraged his people, did ſhut their eyes againſt as glori<g ref="char:EOLhyphen"/>ous
+viſions of kindneſſe and goodneſſe, as ever was ſeen in all the
+<pb facs="tcp:113643:18"/>
+world; <hi>Moſes,</hi> and <hi>Aaron, Joſuah,</hi> and <hi>Gideon,</hi> were not inſtru<g ref="char:EOLhyphen"/>ments
+of more glorious victories for <hi>Iſrael</hi> of old, then thoſe de<g ref="char:EOLhyphen"/>liverers,
+whom God ſent <hi>London,</hi> have been of late, the deſpifing
+whereof may bring down wrath, but God will finde a way to
+ſave his people.</p>
+            <p>In the laſt place conſider this for the concluſion of all, which
+might rather have been a Preface.</p>
+            <p>It is the great unhappineſſe of well meaning and plain heart<g ref="char:EOLhyphen"/>ed
+men, to be ſtill made inſtrumentall to the masked and diſ<g ref="char:EOLhyphen"/>guiſed
+deſignes (and to have their innocency impoſed upon by
+the craft and practiſe) of thoſe that dare not owne their owne
+endeavours, leſt they ſhould alarum thoſe whom they would
+deceive, and hinder the concurrence of thoſe multitudes with<g ref="char:EOLhyphen"/>out
+which their ultimate end cannot be attained: There were
+two hundred in <hi>Jeruſalem</hi> (that never wiſhed ill to <hi>David</hi>) went
+along with <hi>Abſolom</hi> in the ſimplicity of their ſpirits, (knowing
+nothing) who yet gave the beginning to that horrid Rebelli<g ref="char:EOLhyphen"/>on,
+in which he endeavoured to dethrone his Father, and de<g ref="char:EOLhyphen"/>prive
+him of life, who ſeverall wayes gave him his, which pra<g ref="char:EOLhyphen"/>ctiſe
+(with the parellel in hand) although it be ſo ordinary as
+a Deſigne can hardly be inſtanced (that muſt be acted openly)
+that hath not firſt obtained credit by the patronage of abuſed
+ſimplicity, (appearing in it) yet it ſtill takes as often as it is at<g ref="char:EOLhyphen"/>tempted,
+like Stratagems military, where thoſe of curious con<g ref="char:EOLhyphen"/>trivance
+are many times abortive: Thoſe that are every day
+practiſed, doe notwithſtanding every day take effect. For the
+ſake of ſuch as are ſo abuſed, it were a work worth the chari<g ref="char:EOLhyphen"/>ty
+and labour of a free leaſure, and an able pen to undeceive the
+world in this particular, to ſet open the windowes of this
+dark Cabinet, to diſcover the Methods of theſe impoſtors, to
+let ſimple integrity ſee how theſe approches are made upon it,
+and to unlock thoſe cyphers in which (unknown to themſelves)
+they maintain a dangerous intelligence &amp; correſpondence with
+their enemies; In which imployment, if ſome happy <hi>Genius</hi>
+had before this time diſpoſed it ſelfe, it might have proved an
+Antidote to this ſpreading plague, and might have prevented
+the birth of that <hi>Mulate</hi> conception which now calls it ſelfe the
+<pb facs="tcp:113643:18"/>
+               <hi>Remonſtrance of the Common Councell of the Citie of London.</hi> For it
+cannot be imagined, that ſo many honeſt pious men (as the ma<g ref="char:EOLhyphen"/>jor
+part of that Councel are known to be, who have hitherto
+ſhewed themſelves in all theſe troubles ſo faithfully devoted to
+ſerve the intereſt of free-born <hi>Engliſh-men,</hi> in adhering to, &amp; de<g ref="char:EOLhyphen"/>fending
+the Parliament of <hi>England</hi>) ſhould now be brought (by
+putting forth &amp; preſſing this <hi>Remonſtrance</hi>) to ſerve the implicate
+deſignes of a triple (if not quadruple) faction, were not they de<g ref="char:EOLhyphen"/>ceived
+&amp; abuſed by the fineneſſeand artifice of theſe Impoſtors,
+wooing them from their duty, and into ruine, under ſpecious
+and pious pretences; themſelves the while propounding ſeverall
+ends, though agreeing in one common (the deſtruction of the
+liberty and freedome of the <hi>Engliſh</hi> Nation) though in ſeverall
+and differing degnees. And although the times will not now
+preſently beare ſuch an opening this myſtery of Iniquity, as
+might convince thoſe whoſe malignity, prejudice, or (per<g ref="char:EOLhyphen"/>haps)
+good opinion of ſome promoting it, have ſeald their
+eyes and muffled their own underſtandings, yet thoſe whoſe
+confidence hath been abuſed, and whoſe facile diſpoſitions car<g ref="char:EOLhyphen"/>ried
+down in the generall crowd, or whoſe piety taken with the
+ſpecious ſhew of Reformation, &amp; Uniformity, are deſired ſeri<g ref="char:EOLhyphen"/>ouſly
+and maturely to weigh theſe few lines by way of <hi>Ani<g ref="char:EOLhyphen"/>madverſion</hi>
+upon that <hi>Remonſtrance,</hi> untill the times ſhall give
+leave to one more compleat, and we doubt not but ſuch as ſhall
+remember their covenant (to maintain the priviledges of Parlia<g ref="char:EOLhyphen"/>ment,
+and continue ſtil in a ſenſe of duty to it) which God hath
+thus far honored, owned, &amp; carried on in delivering the King<g ref="char:EOLhyphen"/>dome
+from the attempts of tyranny, &amp; which (in probability
+by the concurrence of the ſame bleſſing they are like to effect) if
+it be not hindered and endangered) will be ſo far ſatisfied there<g ref="char:EOLhyphen"/>by,
+as to eſteem it as little for their reputation in this civill
+Schiſme, as in that religious to be called <hi>Remonſtrants.</hi>
+            </p>
+         </div>
+         <div type="thanksgiving">
+            <head>A Forme of Thanks-giving uſed by the Church of Scotland for their
+deliverance from the French by the Engliſh, Anno 1575.</head>
+            <p>NOw, Lord, ſeeing that we enjoy comfort both in body
+and ſpirit, by reaſon of this quietneſſe of thy mercy gran<g ref="char:EOLhyphen"/>ted
+unto us, after our moſt deſperate troubles, in the which we:
+<pb facs="tcp:113643:19"/>
+appeared utterly to have been overwhelmed; we praiſe and
+glorifie thy mercy and goodneſſe, who pitiouſly looked upon
+us when we in our owne ſelves were utterly confounded. But
+ſeeing, O Lord, that to receive benefits at thy hands, and not
+to be thankfull for the fame, is nothing elſe but a ſeale againſt
+us in the day of judgement; we moſt humbly beſeech thee to
+grant unto us hearts ſo mindfull of the calamities paſt, that we
+continually may feare to provoke thy juſtice to puniſh us with
+the like or worſe plagues. And ſeeing that when we by our own
+power were altogether unable to have freed our ſelves from the
+tyranny of ſtrangers, and from the bondage and thraldome
+pretended againſt us, thou of thine eſpeciall goodneſſe didſt
+move the hearts of our neighbours (of whom we had deſerved
+no ſuch favour) to take upon them the common burthen with
+us, and for our deliverance, not onely to ſpend the lives of
+many, but alſo to hazard the eſtate and tranquillity of their
+Realme and Common-wealth; Grant unto us, O Lord, that
+with ſuch reverence we may remember thy benefits received, that
+after this, in our default, we never enter into hoſtility againſt
+the Realme and Nation of <hi>England.</hi> Suffer us never, O Lord,
+to fall to that ingratitude and deteſtable unthankfulneſſe, that
+we ſhall ſeek the deſtruction and death of thoſe whom thou
+haſt made inſtruments to deliver us from the tyranny of merci<g ref="char:EOLhyphen"/>leſſe
+ſtrangers. Diſſipate thou the counſels of ſuch as deceitfully
+travell to ſtirre the hearts of the Inhabitants of either Realme
+againſt the other. Let their malicious practices be their owne
+confuſion, and grant thou of thy mercy that love, concord,
+and tranquillity may continue and encreaſe amongſt the Inha<g ref="char:EOLhyphen"/>bitants
+of this Ile, even to the comming of the Lord. Jeſus
+Chriſt, by whoſe glorious Evangel thou of thy mercy doſt call
+us both to unity, peace, and Chriſtian concord. The full per<g ref="char:EOLhyphen"/>fection
+whereof we ſhall poſſeſſe in the fulneſſe of thy King<g ref="char:EOLhyphen"/>dome,
+when all offences ſhall be removed, iniquity ſhall be ſup<g ref="char:EOLhyphen"/>preſſed,
+and thy choſen children be fully endued with that per<g ref="char:EOLhyphen"/>fect
+glory, in the which now our Lord. Jeſus Chriſt reigneth.
+To whom with thee, and the Holy Ghoſt, be all honour, praiſe,
+and glory, now and ever. So be it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
